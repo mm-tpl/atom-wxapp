@@ -11,8 +11,8 @@
 		"up": "git pull git@github.com:mm-core/base.git master"
 	},
 	"repository": {
-		"type": "git",
-		"url": "https://github.com/mm-tpl/atom-wxapp"
+		"type": "https+git",
+		"url": "https://github.com/mm-tpl/atom-wxapp.git"
 	},
 	"main": "dist/index.js",
 	"module": "dist/index.js",
